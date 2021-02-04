@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'exod-asso.org',
+    title: 'Association EXOD',
     htmlAttrs: {
       lang: 'en',
     },
@@ -36,13 +36,7 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [
-    // https://go.nuxtjs.dev/content
-    '@nuxt/content',
-  ],
-
-  // Content module configuration: https://go.nuxtjs.dev/config-content
-  content: {},
+  modules: [],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
