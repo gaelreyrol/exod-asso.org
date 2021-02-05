@@ -4,8 +4,12 @@
   >
     <div>
       <img src="/logo.jpg" alt="Logo Exod" />
-      <h1 class="text-6xl font-medium">Les exilées ont des droits</h1>
-      <div class="pt-6 flex justify-center items-center space-x-2">
+      <h1 class="text-2xl sm:text-4xl md:text-6xl font-medium">
+        Les exilé·e·s ont des droits
+      </h1>
+      <div
+        class="pt-6 flex flex-col sm:flex-row space-y-2 justify-center items-center sm:space-x-2 sm:space-y-0"
+      >
         <a
           href="https://fb.exod-asso.org/"
           target="_blank"
