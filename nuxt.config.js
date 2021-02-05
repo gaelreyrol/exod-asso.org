@@ -6,12 +6,36 @@ export default {
   head: {
     title: 'Association EXOD',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'fr',
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Les exilé·e·s ont des droits',
+      },
+      {
+        hid: 'og:title',
+        name: 'og:title',
+        content: 'Association EXOD',
+      },
+      {
+        hid: 'og:type',
+        name: 'og:type',
+        content: 'website',
+      },
+      {
+        hid: 'og:image',
+        name: 'og:image',
+        content: 'https://exod-asso.org/logo.jpg',
+      },
+      {
+        hid: 'og:url',
+        name: 'og:url',
+        content: 'https://exod-asso.org',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
