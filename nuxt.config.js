@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Association EXOD',
+    title: 'EXOD',
     htmlAttrs: {
       lang: 'fr',
     },
@@ -19,7 +19,7 @@ export default {
       {
         hid: 'og:title',
         name: 'og:title',
-        content: 'Association EXOD',
+        content: 'EXOD',
       },
       {
         hid: 'og:type',
