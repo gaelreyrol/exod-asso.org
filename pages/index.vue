@@ -8,7 +8,15 @@
         Les exilé·e·s ont des droits
       </h1>
       <div
-        class="pt-6 flex flex-col sm:flex-row space-y-2 justify-center items-center sm:space-x-2 sm:space-y-0"
+        class="
+          pt-6
+          flex flex-col
+          sm:flex-row
+          space-y-2
+          justify-center
+          items-center
+          sm:space-x-2 sm:space-y-0
+        "
       >
         <a
           href="https://fb.exod-asso.org/"
