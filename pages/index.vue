@@ -16,7 +16,7 @@
           rel="noopener noreferrer"
           class="border-2 rounded-md py-2 px-4"
         >
-          Facebook
+          Nous suivre sur Facebook
         </a>
         <a
           href="https://insta.exod-asso.org/"
@@ -24,15 +24,15 @@
           rel="noopener noreferrer"
           class="border-2 rounded-md py-2 px-4"
         >
-          Instagram
+          Nous suivre sur Instagram
         </a>
         <a
-          href="https://hello.exod-asso.org/"
+          href="https://www.helloasso.com/associations/exod/formulaires/1"
           target="_blank"
           rel="noopener noreferrer"
           class="border-2 rounded-md py-2 px-4"
         >
-          HelloAsso
+          Faire un don
         </a>
         <a
           href="mailto:contact@exod-asso.org"
@@ -40,7 +40,7 @@
           rel="noopener noreferrer"
           class="border-2 rounded-md py-2 px-4"
         >
-          E-mail
+          Nous contacter
         </a>
       </div>
     </div>
